@@ -9,5 +9,6 @@ function secondLarget(numbers){
     if (uniqueNumbers.length === 1){return null}
     return uniqueNumbers[1];
 }
+
 module.exports = secondLarget;
 
